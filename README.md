@@ -1,6 +1,5 @@
-### Prisma GraphQL schema first sample
+### NestJS GraphQL Prisma
 
-This sample project uses sqlite as the relational database. To use a different database, check the [Prisma docs](https://www.prisma.io/docs/getting-started).
 
 ### Installation
 
